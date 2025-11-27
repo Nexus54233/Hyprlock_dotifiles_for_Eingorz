@@ -1,2 +1,2 @@
-# Hyprlock_dotifiles_for_Eingorz
+# Hyprlock_dotifiles
 hope u like it
