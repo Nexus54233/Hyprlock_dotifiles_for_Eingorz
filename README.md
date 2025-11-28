@@ -8,3 +8,7 @@ made new entry with a simple qt launcher app
 <img width="1780" height="1005" alt="Screenshot_20251128_104731" src="https://github.com/user-attachments/assets/cfe187e1-f963-4cca-a0f6-a6583b421864" />
 
 still hoping u like it lol im not that greate of a designer
+
+
+
+Credit: https://github.com/eingorz/DOTFILES---NETRUNNER-HYPRLAND/commits?author=eingorz for the base hyprland configuration
