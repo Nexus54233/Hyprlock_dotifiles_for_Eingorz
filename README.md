@@ -12,3 +12,6 @@ still hoping u like it lol im not that greate of a designer
 
 
 Credit: https://github.com/eingorz/DOTFILES---NETRUNNER-HYPRLAND/commits?author=eingorz for the base hyprland configuration
+
+
+Edit: it might be broken as hell, its my third time riing wayland, be patient
